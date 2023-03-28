@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="selamatDatang">Hi, Welcome!</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="ulangi">Re-insert password</string>
+    <string name="Daftar">List</string>
+    <string name="pilihBahasa">Select language</string>
+</resources>

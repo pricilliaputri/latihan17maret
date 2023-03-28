@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="selamatDatang">Bonjour, bienvenue</string>
+    <string name="login">Connectez-vous</string>
+    <string name="username">nom d’utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="signUp">S’enregistrer</string>
+    <string name="name">Nom</string>
+    <string name="ulangi">Réinsérer le mot de passe</string>
+    <string name="Daftar">Liste</string>
+    <string name="pilihBahasa">Sélectionner une langue</string>
+</resources>

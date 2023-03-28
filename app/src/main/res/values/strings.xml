@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="selamatDatang">Hallo, Selamat Datang</string>
+    <string name="login">Masuk</string>
+    <string name="username">Nama pengguna</string>
+    <string name="password">Kata sandi</string>
+    <string name="signUp">Daftarkan</string>
+    <string name="name">Nama</string>
+    <string name="ulangi">Masukkan kembali password</string>
+    <string name="Daftar">Daftar</string>
+    <string name="pilihBahasa">Pilih Bahasa</string>
+
+</resources>
